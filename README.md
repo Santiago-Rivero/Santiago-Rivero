@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+🔭 Actualmente estoy buscando mi primer oferta de trabajo como Desarrollador Web en calidad de Programador Trainee-Jr
+
+📫 Me gustaría trabajar en una empresa con un buen ambiente laboral, donde pueda adquirir experiencia y aportar todos mis conocimientos para el crecimiento de la misma; siempre dispuesto a seguir capacitándome y aprendiendo en el proceso.
+
+🌱 En estos momentos estoy realizando un curso de Desarrollador Web Full-Stack, que se lleva a cabo en la Universidad del Conocimiento, Sillicon Misiones.
+
+⚡ Aptitudes personales:
+Proactividad - Capacidad de adaptación - Conocimientos técnicos - Habilidades comunicativas y sociales - Capacidad de trabajo en grupo - Responsable y organizado - Buena presencia y puntualidad
+
 <!--
 **Santiago-Rivero/Santiago-Rivero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
