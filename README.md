@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Actualmente me encuentro trabajando en Carrito.com.ar como Front-end developer en calidad de Programador Jr.
+🔭 Actualmente me encuentro trabajando en Avenida Compras como Front-end developer.
 
 📫 Soy parte de una empresa con un buen ambiente laboral, donde puedo adquirir experiencia y aportar todos mis conocimientos para el crecimiento de la misma; siempre dispuesto a seguir capacitándome y aprendiendo en el proceso.
 
